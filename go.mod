@@ -1,6 +1,6 @@
-module github.com/CuratorC/aliyun-communicate
+module github.com/ShaBaoFa/aliyun-communicate
 
-go 1.23.3
+go 1.23.2
 
 require github.com/pborman/uuid v1.2.1
 
